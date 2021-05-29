@@ -1,0 +1,1 @@
+This file is going to store my horror wikipedia site. It is bare bones but I hope to have it padded out as I learn more.
